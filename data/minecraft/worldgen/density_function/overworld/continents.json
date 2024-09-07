@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:cache_2d",
+    "argument": {
+      "type": "minecraft:spline",
+      "spline": {
+        "coordinate": "minecraft:overworld/continentalness",
+        "points": [
+          {
+            "location": -1.69,
+            "value": -1,
+            "derivative": -1.75
+          },
+          {
+            "location": 0.067,
+            "value": -0.285,
+            "derivative": 0.6
+          },
+          {
+            "location": 0.19,
+            "value": -0.2,
+            "derivative": 0.1
+          },
+          {
+            "location": 0.2,
+            "value": -0.17,
+            "derivative": 0.25
+          },
+          {
+            "location": 0.27,
+            "value": -0.14,
+            "derivative": 0.1
+          },
+          {
+            "location": 0.45,
+            "value": 0.35,
+            "derivative": 1.25
+          }
+        ]
+      }
+    }
+  }
+}

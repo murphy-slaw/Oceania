@@ -1,0 +1,15 @@
+# goddamn MacOS
+.DS_Store
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# server export directory
+server
+
+# vscode schmutz
+.vscode
+/.idea/
+*.code-workspace
