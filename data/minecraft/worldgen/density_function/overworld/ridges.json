@@ -14,11 +14,6 @@
       },
       "points": [
         {
-          "location": -1,
-          "derivative": 0.733,
-          "value": -1
-        },
-        {
           "location": 0,
           "derivative": 0.733,
           "value": -0.267
@@ -27,11 +22,6 @@
           "location": 0,
           "derivative": 0.733,
           "value": 0.267
-        },
-        {
-          "location": 1,
-          "derivative": 0.733,
-          "value": 1
         }
       ]
     }
