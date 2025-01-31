@@ -3,7 +3,7 @@
         "description": {
             "text": "Oceania: A world of islands."
         },
-        "pack_format": 16,
+        "pack_format": 18,
         "supported_formats": [15, 61]
     },
     "overlays": {
