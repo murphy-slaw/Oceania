@@ -19,10 +19,14 @@
   },
   "noise_router": {
     "barrier": {
-      "noise": "minecraft:aquifer_barrier",
-      "type": "minecraft:noise",
-      "xz_scale": 1.0,
-      "y_scale": 0.5
+      "type": "minecraft:add",
+      "argument1": 0.2,
+      "argument2": {
+        "type": "minecraft:noise",
+        "noise": "minecraft:aquifer_barrier",
+        "xz_scale": 1.0,
+        "y_scale": 0.5
+      }
     },
     "continents": "minecraft:overworld/continents",
     "depth": "minecraft:overworld/depth",
