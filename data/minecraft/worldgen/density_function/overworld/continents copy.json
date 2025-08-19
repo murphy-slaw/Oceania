@@ -8,8 +8,8 @@
         "coordinate": "minecraft:overworld/continentalness",
         "points": [
           {
-            "location": -1.5,
-            "value": -1.125,
+            "location": -1.4,
+            "value": -1.4,
             "derivative": -0.5
           },
           {
@@ -20,25 +20,25 @@
           },
           {
             "comment": "Beach to ocean transition point.",
-            "location": 0.24,
+            "location": 0.26,
             "value": -0.19,
-            "derivative": 0.8
+            "derivative": 1
           },
           {
             "comment": "Beach to inland transition.",
-            "location": 0.35,
+            "location": 0.30,
             "value": -0.11,
-            "derivative": 1.5
+            "derivative": 2
           },
           {
-            "location": 0.7,
-            "value": 1.0,
+            "location": 0.35,
+            "value": 0,
             "derivative": 3
           },
           {
-            "location": 1.0,
+            "location": 1.3,
             "value": 1.5,
-            "derivative": 2
+            "derivative": 4
           }
         ]
       }
