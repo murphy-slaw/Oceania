@@ -9,36 +9,36 @@
         "points": [
           {
             "location": -1.5,
-            "value": -1.125,
-            "derivative": -0.5
+            "value": -1.4,
+            "derivative": -0.625
           },
           {
             "comment": "Ocean to deep ocean transition point.",
             "location": -0.17,
             "value": -0.445,
-            "derivative": 0.8
+            "derivative": 0.5
           },
           {
             "comment": "Beach to ocean transition point.",
             "location": 0.24,
             "value": -0.19,
-            "derivative": 0.8
+            "derivative": 1
           },
           {
             "comment": "Beach to inland transition.",
-            "location": 0.35,
+            "location": 0.38,
             "value": -0.11,
-            "derivative": 1.5
+            "derivative": 0.625
           },
           {
-            "location": 0.7,
-            "value": 1.0,
-            "derivative": 3
+            "location": 0.8,
+            "value": 0.15,
+            "derivative": 0.8
           },
           {
-            "location": 1.0,
+            "location": 1.5,
             "value": 1.5,
-            "derivative": 2
+            "derivative": 0
           }
         ]
       }

@@ -120,7 +120,7 @@
       "xz_scale": 1.0,
       "y_scale": 1.0
     },
-    "ridges": "minecraft:overworld/ridges",
+    "ridges": "minecraft:overworld/ridges_no_river",
     "temperature": "minecraft:overworld/temperature",
     "vegetation": {
       "noise": "minecraft:vegetation",
