@@ -13,13 +13,18 @@
         "points": [
             {
                 "location": -1.5,
-                "value": -1,
-                "derivative": 1.5
+                "value": -1.5,
+                "derivative": 1
             },
             {
-                "location": -0.45,
-                "value": -0.25,
-                "derivative": 0.5
+                "location": -0.5,
+                "value": 0,
+                "derivative": 0
+            },
+            {
+                "location": -0.25,
+                "value": 0,
+                "derivative": 0
             },
             {
                 "location": 1.5,

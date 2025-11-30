@@ -9,12 +9,17 @@
         "points": [
           {
             "location": -1.5,
-            "value": -1.125,
+            "value": -1.5,
+            "derivative": -0.5
+          },
+          {
+            "location": -1.105,
+            "value": -1.1,
             "derivative": -0.5
           },
           {
             "comment": "Ocean to deep ocean transition point.",
-            "location": -0.17,
+            "location": -0.15,
             "value": -0.445,
             "derivative": 0.8
           },
