@@ -31,19 +31,19 @@
           },
           {
             "comment": "Beach to inland transition.",
-            "location": 0.37,
+            "location": 0.355,
             "value": -0.11,
             "derivative": 0.733
           },
           {
             "location": 0.7,
             "value": 0.15,
-            "derivative": 1.5
+            "derivative": 1.2
           },
           {
-            "location": 1.5,
-            "value": 1.5,
-            "derivative": 0
+            "location": 1.3,
+            "value": 1.3,
+            "derivative": 1.0
           }
         ]
       }
