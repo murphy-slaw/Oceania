@@ -1,0 +1,34 @@
+{
+    "type": "spline",
+    "spline": {
+        "coordinate": {
+            "type": "minecraft:mul",
+            "argument1": {
+                "type": "moredfs:radius"
+            },
+            "argument2": {
+                "type": "moredfs:clamp",
+                "argument": {
+                    "type": "noise",
+                    "noise": "minecraft:blerm",
+                    "xz_scale": 0.22,
+                    "y_scale": 0
+                },
+                "max": 1,
+                "min": 0.1
+            }
+        },
+        "points": [
+            {
+                "location": 0,
+                "derivative": 0,
+                "value": 0.8
+            },
+            {
+                "location": 140,
+                "derivative": 0,
+                "value": 0
+            }
+        ]
+    }
+}
