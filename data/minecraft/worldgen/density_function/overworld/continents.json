@@ -1,7 +1,7 @@
 {
   "type": "minecraft:spline",
   "spline": {
-    "coordinate": "minecraft:overworld/islands",
+    "coordinate": "oceania:overworld/islands",
     "points": [
       {
         "location": -1,
@@ -27,7 +27,7 @@
             {
               "location": 0,
               "derivative": 0,
-              "value": 0.2
+              "value": 0.25
             },
             {
               "location": 250,

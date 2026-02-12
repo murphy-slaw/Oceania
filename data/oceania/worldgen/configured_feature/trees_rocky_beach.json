@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "oceania:cypress",
+    "features": [
+      {
+        "chance": 1.0,
+        "feature": "oceania:cypress"
+      }
+    ]
+  }
+}

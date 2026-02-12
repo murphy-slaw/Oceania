@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:cache_2d",
+    "argument": {
+      "type": "minecraft:spline",
+      "spline": {
+        "coordinate": "minecraft:overworld/continentalness",
+        "points": [
+          {
+            "location": -1.5,
+            "value": -1.5,
+            "derivative": -0.25
+          },
+          {
+            "location": -1.105,
+            "value": -1.1,
+            "derivative": -0.5
+          },
+          {
+            "comment": "Ocean to deep ocean transition point.",
+            "location": -0.15,
+            "value": -0.445,
+            "derivative": 0.8
+          },
+          {
+            "comment": "Beach to ocean transition point.",
+            "location": 0.24,
+            "value": -0.19,
+            "derivative": 0.8
+          },
+          {
+            "comment": "Beach to inland transition.",
+            "location": 0.35,
+            "value": -0.11,
+            "derivative": 0.733
+          },
+          {
+            "location": 0.425,
+            "value": 0.03,
+            "derivative": 1.0
+          },
+          {
+            "location": 1.0,
+            "value": 1.0,
+            "derivative": 0.75
+          }
+        ]
+      }
+    }
+  }
+}

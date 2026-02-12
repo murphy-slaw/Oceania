@@ -31,7 +31,7 @@
     "continents": "minecraft:overworld/continents",
     "depth": "minecraft:overworld/depth",
     "erosion": "minecraft:overworld/erosion",
-    "final_density": "minecraft:overworld/final_density_caves",
+    "final_density": "oceania:overworld/final_density_caves",
     "fluid_level_floodedness": {
       "type": "minecraft:add",
       "argument1": {
@@ -1205,7 +1205,7 @@
                                   "minecraft:warm_ocean",
                                   "minecraft:beach",
                                   "minecraft:snowy_beach",
-                                  "minecraft:rocky_beach"
+                                  "oceania:rocky_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -1982,7 +1982,7 @@
                                   "minecraft:warm_ocean",
                                   "minecraft:beach",
                                   "minecraft:snowy_beach",
-                                  "minecraft:rocky_beach"
+                                  "oceania:rocky_beach"
                                 ],
                                 "type": "minecraft:biome"
                               },
@@ -2232,7 +2232,7 @@
                         "minecraft:warm_ocean",
                         "minecraft:beach",
                         "minecraft:snowy_beach",
-                        "minecraft:rocky_beach"
+                        "oceania:rocky_beach"
                       ],
                       "type": "minecraft:biome"
                     },
