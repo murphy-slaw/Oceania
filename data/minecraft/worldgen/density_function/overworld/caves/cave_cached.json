@@ -1,9 +1,0 @@
-{
-    "type": "cache_all_in_cell",
-    "argument": {
-        "type": "minecraft:noise",
-        "noise": "minecraft:cave",
-        "xz_scale": 1,
-        "y_scale": 1
-    }
-}
